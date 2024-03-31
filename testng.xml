@@ -1,0 +1,9 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Wikipedia Test Suite">
+    <test name="Wikipedia Test">
+        <parameter name="pageCount" value="3"/>
+        <classes>
+            <class name="com.example.WikipediaTest"/>
+        </classes>
+    </test>
+</suite>
