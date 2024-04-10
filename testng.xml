@@ -3,7 +3,7 @@
     <test name="Wikipedia Test">
         <parameter name="pageCount" value="3"/>
         <classes>
-            <class name="com.example.WikipediaTest"/>
+            <class name="com.example.tests.WikipediaTest"/>
         </classes>
     </test>
 </suite>
